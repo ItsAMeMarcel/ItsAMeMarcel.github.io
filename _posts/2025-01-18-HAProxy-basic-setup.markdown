@@ -48,7 +48,7 @@ As architecture, we use an **HAProxy** server that employs the **Round Robin** p
 
 The diagram below shows the basic architecture:
 
-![HAProxy architecture](https://cdn.uploads.micro.blog/189931/2025/bp9-diagram.png)
+![HAProxy architecture](https://github.com/ItsAMeMarcel/blog-resources/blob/main/images/2025-01-18-HAProxy-basic-setup/architecture.png?raw=true)
 
 ## Configuration
 

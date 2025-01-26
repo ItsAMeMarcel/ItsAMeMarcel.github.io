@@ -5,7 +5,7 @@ date:   2025-01-10 17:22:15 +0100
 categories: loadbalancing nginx
 ---
 
-<img src="https://itsamemarcel.micro.blog/uploads/2024/bp7-diagram.png" width="531" height="401" alt="">
+<img src="https://github.com/ItsAMeMarcel/blog-resources/blob/main/images/2025-01-10-NGINX-basic-setup/architecture.png?raw=true" width="531" height="401" alt="">
 
 
 In this guide, we will walk through the steps to set up a simple load balancing environment using NGINX and Podman. This setup will distribute traffic across multiple instances of a PHP web application in round robin mode.
