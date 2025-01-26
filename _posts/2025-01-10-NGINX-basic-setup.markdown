@@ -15,7 +15,7 @@ In this guide, we will walk through the steps to set up a simple load balancing 
 - Podman installed
 - Podman compose installed
 
-An instruction for Ubuntu 22.04 can be found [here](https://itsamemarcel.micro.blog/2024/12/19/install-podman-desktop.html).
+An instruction for Ubuntu 22.04 can be found [here](https://itsamemarcel.github.io/container/2025/01/26/Ubuntu-Podman-setup.html).
 
 # Setup
 
